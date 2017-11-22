@@ -74,3 +74,4 @@ $ ssh-keygen -t rsa -C "youremail@example.com"
 //上传到github
 git remote add origin git@github.com:vervin/abcd.git
 push -u origin master
+
