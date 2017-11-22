@@ -47,3 +47,5 @@ git reflog  //历史
 
 git checkout -- readme.txt
 
+git reset HEAD readme.txt
+
