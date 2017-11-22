@@ -40,3 +40,5 @@ git reset --hard HEAD^
 cat readme.txt
 
 git reset --hard 3628164
+
+git reflog  //历史
