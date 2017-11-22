@@ -31,4 +31,12 @@ git commit -m "second commit"
 如果git status告诉你有文件被修改过，用git diff可以查看修改内容。
 
 
+git log
 
+git log --pretty=oneline
+
+git reset --hard HEAD^
+
+cat readme.txt
+
+git reset --hard 3628164
