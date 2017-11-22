@@ -42,3 +42,5 @@ cat readme.txt
 git reset --hard 3628164
 
 git reflog  //历史
+
+第一次修改 -> git add -> 第二次修改 -> git add -> git commit
